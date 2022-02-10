@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-I am looking for a remote job, if you have a good position please contact me: <a href="mailto:dmoosocool@gmail.com">dmoosocool@gmail.com</a>
-
 <p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/dmoosocool/count.svg" />
