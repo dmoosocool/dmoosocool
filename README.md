@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I am dmoosocool, a frontend developer.
+<br/>
 I want to make friends with some interesting people.
 
 <p align="center">
