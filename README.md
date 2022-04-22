@@ -1,8 +1,8 @@
-### Hi there 👋
 
-I am dmoosocool, a frontend developer.
-<br/>
-I want to make friends with some interesting people.
+<pre>
+水中有墨，再难清了？
+水中有墨，方能成画。
+</pre>
 
 <p align="center">
   Visitor count<br>
