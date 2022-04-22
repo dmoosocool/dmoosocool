@@ -1,3 +1,5 @@
+<img src="./assets/ink.jpg"/>
+
 
 <pre>
 水中有墨，再难清了？
